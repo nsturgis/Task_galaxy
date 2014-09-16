@@ -51,3 +51,6 @@ rake db:seed              # load the seed data from db/seeds.rb
 rake db:setup             # create the database and load the schema
 rake db:test:prepare      # Prepare test database from development schema
 ```
+
+
+
